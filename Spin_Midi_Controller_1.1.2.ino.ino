@@ -1,3 +1,5 @@
+#@Author: Demetrius Robinson (BlueKaiTheEnd)
+
 #include <Adafruit_NeoPixel.h>
 #include <Metro.h>
 #include <Bounce2.h>
